@@ -1,6 +1,6 @@
 # exec-in-window
 
-_exec-in-window_ is modified `exec` command used in _Sublime Text 2_ build system
+_exec-in-window_ is modified `exec` command used in _Sublime Text 3_ build system
 
 ![SublimeText screenshot](https://raw.github.com/vhyza/exec-in-window/master/screenshot.png)
 
